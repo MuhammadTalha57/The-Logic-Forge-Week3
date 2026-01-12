@@ -1,7 +1,7 @@
 # The Logic Forge - Problem Set Solutions
 
 ## About
-This repository contains my solutions for Week 2 of **The Logic Forge**, a 3-week logic and problem-solving challenge organized by the CIS Community, NED University of Engineering and Technology.
+This repository contains my solutions for Week 3 of **The Logic Forge**, a 3-week logic and problem-solving challenge organized by the CIS Community, NED University of Engineering and Technology.
 
 ## Activity Details
 - **Duration:** 3 weeks

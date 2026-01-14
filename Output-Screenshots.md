@@ -15,8 +15,5 @@
 ## Challenge 5: The Master Scheduler's Dilemma
 ![Challenge 5 Output](screenshots/challenge5.png)
 
-## Challenge 6: The High-Stakes Freelancer
+## Challenge 6: Suspicious Device Detection
 ![Challenge 6 Output](screenshots/challenge6.png)
-
-## Challenge 7: Koko’s Banana Buffet
-![Challenge 7 Output](screenshots/challenge7.png)

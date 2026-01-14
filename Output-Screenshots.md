@@ -9,7 +9,7 @@
 ## Challenge 3: The Mirror Quest: Finding the Longest Reflection
 ![Challenge 3 Output](screenshots/challenge3.png)
 
-## Challenge 4: The Royal Treasury 
+## Challenge 4: Scrambled Keyword Detection
 ![Challenge 4 Output](screenshots/challenge4.png)
 
 ## Challenge 5: The Master Scheduler's Dilemma

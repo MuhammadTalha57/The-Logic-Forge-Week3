@@ -9,7 +9,7 @@ Time Complexity = O(N)
 Space Complexity = O(1)
 
 Constraints Assumption:
-n >= 1
+2*n > 1
 
 */
 
@@ -27,24 +27,24 @@ void solve() {
     }
 
     ll pre = y;
+    ll ans = x;
     for(int i = 2; i < n; i++) {
         cin >> temp;
         if(pre == temp) {
-            cout << pre;
-            return;
+            ans = pre;
         }
         if(temp == x) {
-            cout << x;
-            return;
+            ans = x;
         }
         if(temp == y) {
-            cout << y;
-            return;
+            ans == y;
         }
 
 
         pre = temp;
     }
+
+    cout << ans << '\n';
 
     
 }

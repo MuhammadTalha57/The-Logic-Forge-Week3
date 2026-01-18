@@ -6,7 +6,7 @@
 ## Challenge 2: The Balanced Scales Challenge
 ![Challenge 2 Output](screenshots/challenge2.png)
 
-## Challenge 3: The Mirror Quest: Finding the Longest Reflection
+## Challenge 3: Broadcast Network Feed
 ![Challenge 3 Output](screenshots/challenge3.png)
 
 ## Challenge 4: Scrambled Keyword Detection
